@@ -7,7 +7,7 @@ Java Web Developer and Graduate Student Interested in Data science
 
 Hello, I am a dedicated and experienced software engineer with a proven track record of success over the past 5 years. My passion for technology and innovation drives me to constantly seek out new challenges and opportunities for growth. I have honed my skills in various programming languages and have a strong understanding of software development methodologies. My ability to work well in a team and communicate effectively has allowed me to successfully collaborate on numerous projects. I am committed to delivering high-quality solutions that meet the needs of both clients and end-users. I am excited about the future and the endless possibilities in the tech industry.
 
-*   🌍  I'm based in Texas, USA
+*   🌍  I'm based in Little Rock, Arkansas
 *   🖥️  See my portfolio at [MyPortfolio](http://www.swethaakash.com)
 *   ✉️  You can contact me at [vejendlaswetha95@gmail.com](mailto:vejendlaswetha95@gmail.com)
 *   🧠  I'm learning Angular reach my notion page for a roadmap" "
